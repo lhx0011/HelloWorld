@@ -5,3 +5,5 @@ test branch -- lhxdev
 ...
 
 test branch -- lhx
+
+test pull -- lhx
